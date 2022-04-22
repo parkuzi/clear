@@ -15,5 +15,9 @@
   "bugs": {
     "url": "https://github.com/parkuzi/clear/issues"
   },
-  "homepage": "https://github.com/parkuzi/clear#readme"
+  "homepage": "https://github.com/parkuzi/clear#readme",
+  "devDependencies": {
+    "eslint": "^8.13.0",
+    "eslint-plugin-react": "^7.29.4"
+  }
 }
